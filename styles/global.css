@@ -191,7 +191,7 @@ button:hover {
 /* MAIN PAGE HEADER */
 
 header {
-    height: 100vh;
+    height: 100svh;
     width: 110vw;
     /* background-image: url(../assets/temp-cover.png); */
     transition: background-image 0.3s ease-in-out;
@@ -444,3 +444,4 @@ p {
     max-width: 250px;
     
 }
+
