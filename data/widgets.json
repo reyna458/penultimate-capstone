@@ -1,0 +1,72 @@
+[
+  {
+    "id": "1",
+    "pg": "Data",
+    "link": "data",
+    "headline": "People with disabilities are two to four times more likely to die in a natural disaster.",
+    "dek": "No-dek",
+    "img": "No-img",
+    "type": "No-img",
+    "alt": "No-alt"
+  },
+  {
+    "id": "2",
+    "pg": "Story",
+    "link": "airquality",
+    "headline": "Almost a year after the fires, Los Angeles air quality is still toxic to vulnerable communities",
+    "dek": "Lingering pollutants are still making Los Angeles unsafe for people with respiratory issues, even months later.",
+    "img": "gallery25_compressed",
+    "type": "Image",
+    "alt": "Asbestos warning tape"
+  },
+  {
+    "id": "3",
+    "pg": "Story",
+    "link": "mirador",
+    "headline": "Smoke damage and evacuation trauma still linger in Altadena senior apartment complex",
+    "dek": "How a botched evacuation is still impacting Altadena seniors",
+    "img": "gallery12_compressed",
+    "type": "Image",
+    "alt": "Mirador apartment exterior"
+  },
+  {
+    "id": "4",
+    "pg": "Story",
+    "link": "educationspectrum",
+    "headline": "Education Spectrum headline",
+    "dek": "TKTK",
+    "img": "gallery5_compressed",
+    "type": "Image",
+    "alt": "Education Spectrum exterior"
+  },
+  {
+    "id": "5",
+    "pg": "Story",
+    "link": "fema",
+    "headline": "FEMA headline",
+    "dek": "The termination of FEMA programs will impact people with disabilities more severely.",
+    "img": "gallery34_compressed",
+    "type": "Image",
+    "alt": "Wreckage in Altadena"
+  },
+  {
+    "id": "6",
+    "pg": "Resources",
+    "link": "resources",
+    "headline": "Resource headline",
+    "dek": "Create an inclusive disaster plan.",
+    "img": "gallery41_compressed",
+    "type": "Image",
+    "alt": "\"We Love You Altadena\" yard sign"
+  },
+  {
+    "id": "7",
+    "pg": "Story",
+    "link": "ddar",
+    "headline": "Electric utility unexpectedly terminates contract with disability disaster relief group",
+    "dek": "Southern California Edison unexpectedly terminated it's contract with the Disability Disaster Access & Resources divison, putting crucial services at risk",
+    "img": "gallery34_compressed",
+    "type": "Image",
+    "alt": "Wreckage in the Palisades"
+  }
+]

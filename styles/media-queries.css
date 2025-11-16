@@ -1,0 +1,117 @@
+@media screen and (max-width: 530px) {
+
+   body {
+  margin: 0;
+}
+
+main, section, footer {
+  margin: 0 5%;
+}
+
+.menu-title a {
+    margin-left: 0;
+    font-size: 90%;
+}
+
+    .menubar {
+        display: none;
+    }
+
+    header {
+        width: 100%;
+        overflow-x: hidden;
+        margin: 0 auto;
+    }
+
+    .menu {
+        margin-left: 5%;
+        min-width: 90%;
+        max-width: 90%;
+        margin-right: 5%;
+        justify-self: center;
+    }
+
+    .arrow {
+        display: none;
+    }
+
+    header h1 {
+        font-size: 200%;
+        margin-left: 5%;
+        margin-right: 5%;
+        margin-top: 100%;
+    }
+
+    .page-name {
+        display: none;
+    }
+
+    .plus-sign, .x-sign {
+        display: block;
+        align-self: end;
+        margin-bottom: 10%;
+        justify-self: right;
+    }
+
+    .info {
+        max-width: 80%;
+    }
+
+    .menubar {
+        position: fixed;
+        max-width: 90%;
+        justify-self: right;
+    }
+
+    .menu-button {
+        padding: 5%;
+       background-color: #1C2543;
+    }
+
+    .menu-button a {
+         border: white 1px solid;
+         padding: 5%;
+    }
+
+    .data-viz-grid {
+        grid-template-columns: 1fr 1fr 1fr 1fr;
+    }
+
+    footer {
+        margin: 0 auto;
+    }
+
+    .data-viz-grid {
+        max-width: 300px;
+    }
+
+    .barchart h6 {
+        font-size: 85% !important;
+    }
+
+    .imagewidget h2 {
+        font-size: 150%;
+    }
+
+    .about-the-author {
+        display: block;
+    }
+
+    .about-the-author img {
+        justify-self: center;
+    }
+
+    .widget {
+        display: block;
+         margin: 10% 2.5% 10% 2.5%;
+    }
+
+    .imagewidget {
+        grid-template-columns: 1fr;
+        margin: 10% 2.5% 10% 2.5%;
+    }
+
+    .imagewidget img {
+        display: none
+    }
+}
