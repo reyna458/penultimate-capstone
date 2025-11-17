@@ -236,7 +236,7 @@ header h1 {
 }
 
 footer {
-  margin: 0 -25% 0 -25%; 
+  margin: 0; 
   padding-top: 50%;
   background-color: #1C2543;
 }
@@ -450,3 +450,4 @@ p {
     max-width: 250px;
     
 }
+
