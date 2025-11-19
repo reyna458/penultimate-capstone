@@ -98,7 +98,9 @@ main, section, footer {
     }
 
     .about-the-author img {
-        justify-self: center;
+        display: block;
+        margin: 0 auto;
+        margin-bottom: 2.5%;
     }
 
     .widget {
@@ -113,5 +115,9 @@ main, section, footer {
 
     .imagewidget img {
         display: none
+    }
+
+    .special-thanks, .about-the-author {
+        border: white solid 2px
     }
 }

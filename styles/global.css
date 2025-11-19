@@ -132,7 +132,7 @@ figcaption {
     position: absolute;
     z-index: 100;
     top: 25px;
-    right: 40px;
+    right: 15px;
     max-width: 35px;
     max-height: 35px;
 }
@@ -233,6 +233,7 @@ header h1 {
     margin: 50% 30% 0% 23%;
     font-size: 300%;
     position: absolute;
+    z-index: 100;
 }
 
 footer {
@@ -244,7 +245,7 @@ footer {
 
 footer h1 {
     margin: 0 30% 0 23%;
-    font-size: 300%;
+    font-size: 250%;
 }
 
 /* main content styling */
@@ -397,6 +398,7 @@ p {
 
 .author-box {
     height: 50%;
+    margin-top: 18%;
 }
 
 .abouthead {
@@ -407,7 +409,7 @@ p {
     display: grid;
     grid-template-columns: 3fr 2fr;
     grid-template-rows: .25fr .25fr .25fr .25fr;
-    margin: 1% 2.5% 1% 2.5%;
+    margin: 1% 0% 1% 0%;
     border: white solid 5px;
     border-radius: 25px;
     width: 100%;
@@ -450,4 +452,3 @@ p {
     max-width: 250px;
     
 }
-

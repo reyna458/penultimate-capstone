@@ -1,0 +1,36 @@
+.special-thanks {
+    border: white solid 5px;
+    border-radius: 25px;
+    margin: 2.5% 0 2.5% 0;
+    width: 100%;
+    margin-top: 10%;
+}
+
+.special-thanks h3, .special-thanks h4, .special-thanks dl {
+    margin: 2.5%;
+}
+
+.special-thanks dl {
+    color: white;
+}
+
+.special-thanks dt {
+    font-family: "raleway", sans-serif;
+    font-weight: 500;
+    margin: 2.5% 0 2.5% 0;
+}
+
+.special-thanks h3 {
+    font-size: 150%
+}
+
+.first {
+    padding-top: 5%;
+}
+
+.special-thanks dd {
+    font-family: "garamond", serif;
+    border-bottom: white solid 2px;
+    margin: 0% 0% 5% 0;
+    padding-bottom: 5%;
+}
